@@ -1,0 +1,22 @@
+{
+  "name": "custom-sm",
+  "version": "1.0.0",
+  "description": "custom state manager",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ole-Leo/custom-state-manager.git"
+  },
+  "author": "Ole_Leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ole-Leo/custom-state-manager/issues"
+  },
+  "homepage": "https://github.com/Ole-Leo/custom-state-manager#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.6"
+  }
+}
